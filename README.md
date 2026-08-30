@@ -69,7 +69,7 @@ AI recommendations are optional and generated only after clicking **Generate AI 
 PowerShell example:
 
 ```powershell
-$env:GROQ_API_KEY = "your_groq_api_key"
+$env:GROQ_API_KEY = "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"
 streamlit run app.py
 ```
 
